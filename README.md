@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Yeni 👋
 
-<!--
-**yenirara17-commits/yenirara17-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer with interests in Artificial Intelligence, Cloud Technologies, and Scalable Computing Systems.
 
-Here are some ideas to get you started:
+## 🚀 Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Artificial Intelligence
+- Machine Learning
+- Distributed Systems
+- Cloud Infrastructure
+- Open Source Development
+
+## 🛠 Technical Skills
+
+- Python
+- JavaScript
+- Linux
+- Docker
+- Git
+
+## 📚 Currently Exploring
+
+- GPU Accelerated Computing
+- AMD ROCm Ecosystem
+- Cloud-Native Development
+- AI Model Optimization
+- Distributed Workloads
+
+## 🔬 Research Interests
+
+I enjoy experimenting with modern computing technologies, evaluating system performance, and building practical software solutions that leverage cloud and accelerated computing resources.
+
+## 🎯 Long-Term Goals
+
+- Develop scalable AI-powered applications
+- Learn advanced GPU computing techniques
+- Contribute to open-source communities
+- Explore distributed computing architectures
+- Build reliable cloud-native systems
+
+## 🌱 Open Source Journey
+
+This profile serves as a collection of learning projects, research experiments, and software development initiatives focused on modern computing technologies.
